@@ -1,0 +1,25 @@
+body {
+    min-height: 100vh;
+    background: linear-gradient(to bottom, #991414, #646464);
+    font-family: Arial, sans-serif;
+}
+
+#sobre {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 50%;
+    background-color: #c0b6b6;
+    border-radius: 20px;
+}
+
+#projetos {
+    background-image: url("https://neilpatel.com/wp-content/uploads/2019/09/codigos-html-para-paginas-web-1-1200x675.webp");
+    align-items: center;
+    justify-content: center;
+    display: block;
+    width: 50%;
+    height: 50%;
+    background-color: #c0b6b6;
+    border-radius: 20px;
+}
