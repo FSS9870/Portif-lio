@@ -8,9 +8,16 @@ body {
     align-items: center;
     justify-content: center;
     display: flex;
+    flex-direction: column;
     width: 50%;
     background-color: #c0b6b6;
     border-radius: 20px;
+}
+
+#sobre p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-top: 10px;
 }
 
 #projetos {
